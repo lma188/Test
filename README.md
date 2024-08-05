@@ -1,5 +1,4 @@
 # Test
-Technical test set 
 
 Question file = Questions.docx \
 Question 1 data = mtcars-x.csv (Result file = mtcars_output) \
